@@ -4,7 +4,7 @@ import glob
 import pandas as pd
 
 
-os.chdir("/home/david/Documents/Module7/Data/DNase1/Peakfiles/peakscsv/Sample Analysis/Homerfiles/Output files")
+os.chdir("")
 
 allfiles = glob.glob('*.csv')
 
